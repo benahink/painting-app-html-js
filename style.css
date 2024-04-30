@@ -165,8 +165,11 @@ section{
   background: #9626f2;
 }
 
-
-
 .drawing-board{
   flex: 1;
+}
+
+.drawing-board canvas{
+  width: 100%;
+  height: 100%;
 }
